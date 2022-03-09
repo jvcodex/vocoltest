@@ -11,6 +11,7 @@
         <owl:imports rdf:resource="https://www.datos.test.es/def/dummy#1.0.0"/>
     </owl:Ontology>
     
+    
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
